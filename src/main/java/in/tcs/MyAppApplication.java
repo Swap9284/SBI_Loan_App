@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyAppApplication {
 
 	public static void main(String[] args) {
-
-		int a=10;
+        int a=10;
 		SpringApplication.run(MyAppApplication.class, args);
 	}
 
