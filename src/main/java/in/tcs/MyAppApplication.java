@@ -13,6 +13,8 @@ public class MyAppApplication {
 		String s = "hi";
 
 		SpringApplication.run(MyAppApplication.class, args);
+
+		String s2 = "hello";
 	}
 
 }
